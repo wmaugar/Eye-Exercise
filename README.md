@@ -44,8 +44,8 @@
 
 ## :dart: Description ##
 
-This project uses the position of the mouse cursor to interact with a object. <br>
-It works with windows object event to track the cursos, then update the position of an object in the screen.<br>
+This project uses the position of the cursor (graphic pointer) to interact with a object. <br>
+It works with windows object event to track the cursor position, then update the position of an object in the screen.<br>
 Seems than the eye iris is following the cursor.
 
 
