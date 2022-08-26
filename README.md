@@ -57,8 +57,8 @@ Seems than the eye iris is following the cursor.
 
 ## :white_check_mark: Roadmap ##
 
-- Next weeks, will be implemented some walls
-- Soon, will be implemented some phantoms.
+- Next weeks, will implement other objects.
+- Soon, will improve the style of web page.
 
 ## :memo: License ##
 
